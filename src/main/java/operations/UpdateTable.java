@@ -1,3 +1,7 @@
+package operations;
+
+import service.Config;
+
 import java.sql.*;
 
 public class UpdateTable {
